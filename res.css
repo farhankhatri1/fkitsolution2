@@ -1,0 +1,532 @@
+@media only screen and (max-width: 1100px) {
+
+    /* home res */
+    .card:nth-child(4),
+    .card:nth-child(6) {
+        margin: 15px 13px;
+    }
+
+    /* .card:nth-child(5) {
+        margin: 15px 0;
+    } */
+
+    .tab-content {
+        margin: 5px 94px;
+    }
+
+    .dda,
+    .bg {
+        margin: 0 84px;
+    }
+
+    /* aboutus res */
+    .vv p {
+        padding: 0 70px !important;
+    }
+
+    .oss,.row-c,.test,.blog,.dsa,.ddas,.aeiou{
+        justify-content: center !important;
+    }
+
+    .oss .card:nth-child(6) {
+        margin: 0 13px !important;
+    }
+
+    .oss .card:nth-child(7) {
+        margin: 15px 0 !important;
+    }
+
+    .oss .card:nth-child(8) {
+        margin: 15px 13px !important;
+    }
+
+    .oss .card:nth-child(5) {
+        margin: 0 !important;
+    }
+
+    .contact-a a {
+        padding: 3px 20px;
+    }
+    .row-c .card:nth-child(5), .row-c .card:nth-child(7){margin: 15px 13px !important;}
+    .row-c .card:nth-child(6){margin: 15px 0 !important;}
+.contact-a h3 {
+  width: 78%;
+  text-align: left;}
+  /* portfolio */
+.contact-a{width: 69%;}
+.tab-content .card:nth-child(3){margin: 15px 0;}
+.tab-content .card:nth-child(4){margin: 15px 13px !important;}
+.tab-content .card:nth-child(5){margin: 15px 0 !important;}
+.tab-content .card:nth-child(6){margin: 15px 13px !important;}
+.tab-content .card:nth-child(9 ){margin: 15px 0!important;}
+.contact-a a{padding: 2px 13px !important;}
+
+/* webdevelopment services */
+.dsa.card:nth-child(3){margin: 15px 13px!important;}
+
+
+}
+
+
+@media screen and (max-width:999px) {
+
+    .dda,
+    .bg {
+        margin: 0px 34px;
+        justify-content: end;
+    }
+
+    .bg {
+        justify-content: left;
+    }
+
+    .tab-content {
+        margin: 5px 43px;
+    }
+
+    /* aboutus res */
+    .contact-a a {
+        padding: 2px 14px;
+        height: 41px;
+    }
+
+    .contact-a h3 {
+        font-size: 23px;
+    }
+
+    .stats-wrapper {
+        flex-direction: inherit;
+        gap: 0px;
+    }
+
+    .stat-box {
+        flex: 1 1 148px;
+    }
+
+}
+
+@media screen and (max-width:990px) {
+    .aba {
+        margin: 20px 0;
+    }
+
+    .dda {
+        margin: 0 28px;
+    }
+
+    .footer-c-1 {
+        width: 25% !important;
+    }
+
+    .contact-a h3 {
+        width: 68%;
+        font-size: 20px;
+    }
+
+    .contact-a a {
+        padding: 2px 23px;
+        width: 30%;
+    }
+    /* services */
+  .contact-a a {
+    padding: 2px 44px !important;}
+}
+
+@media screen and (max-width:768px) {
+    .hero-text h1 {
+        font-size: 44px;
+    }
+
+    .jhg {
+        width: 100%;
+    }
+
+    .aba h2,
+    .aba p {
+        text-align: center;
+    }
+
+    .tab-content,
+    .card {
+        width: 40rem;
+    }
+
+    .dda-1 {
+        width: 87%;
+    }
+
+    .dda-1 card:nth-child(2) {
+        margin: 5px 0;
+    }
+
+    .bg {
+        width: 58%;
+        margin: 0 auto;
+    }
+
+    .footer-c-1 p {
+        font-size: 16px;
+    }
+
+    .row4 .tab-content {
+        width: 32rem;
+        margin: 5px 151px;
+    }
+
+    .row4 .card,
+    .dda-1 .card,
+    .bg .card {
+        margin: 10px 0 !important;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hero-text p {
+        text-align: left;
+    }
+
+    .oss .card:nth-child(6) {
+        margin: 15px 13px !important;
+    }
+    /* services */
+    .contact-a{width: 82%;}
+    .contact-a a {
+    padding: 2px 36px !important;
+  }
+  .contact-a h3{padding: 6px 10px;}
+  .qawebservices p{width: 76%;}
+  /* portfolio */
+.tab-content .card:nth-child(4){margin: 15px 0 !important;}
+.tab-content .card:nth-child(6){margin: 15px 0!important;}
+}
+
+@media screen and (max-width:640px) {
+
+    .navbar ul li a {
+        padding: 10px 8px;
+    }
+
+    .hero-text h1 {
+        font-size: 36px;
+    }
+
+    .hero-text p {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    .accordion-body {
+        font-size: 18px;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 6px 23px;
+    }
+
+    .row4 .tab-content {
+        margin: 0 auto;
+    }
+
+    .dda-1 {
+        width: 93%;
+    }
+
+    .abc {
+        font-size: 3.3rem !important;
+    }
+
+    .bg {
+        width: 100%;
+    }
+
+    .bg .card {
+        margin: 10px 88px !important;
+    }
+
+    .navbar ul li a {
+        padding: 10px 4px;
+    }
+
+    /* aboutus res */
+    .contact-a {
+        width: 100%
+    }
+
+    .contact-a a {
+        padding: 2px 36px;
+        width: 30%;
+    }
+     .row4 .tab-content {
+    margin: 0 82px;
+  }
+}
+
+@media screen and (max-width:575px) {
+
+    .navbar ul li a {
+        padding: 10px 4px;
+    }
+
+    .hero-text h1 {
+        font-size: 32px;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 6px 12px;
+    }
+
+    .row4 .tab-content {
+        margin: 0px 50px;
+    }
+
+    .abc {
+        font-size: 2.8rem !important;
+    }
+
+    .dda-1 {
+        width: 100%;
+    }
+
+    .bg .card {
+        margin: 10px 50px !important;
+    }
+
+    .bg .card .card-title {
+        padding: 10px 0;
+    }
+
+    .assc p {
+        font-size: 1.5rem
+    }
+
+    .footer-c-1 {
+        width: 50% !important;
+    }
+
+    /* aboutus res */
+    .vv p {
+        padding: 0 45px !important;
+    }
+
+    .contact-a a {
+        padding: 2px 27px !important;
+    }
+
+    .contact-a h3 {
+        font-size: 17px;
+    }
+
+    .contact-a h3 {
+        margin: 20px auto;
+        text-align: center;
+    }
+
+    .contact-a a {
+        padding: 3px 34px !important;
+        width: 33%;
+        margin: auto;
+    }
+    /* services */
+.ssa h3{padding:0 58px;}
+.ssa p{padding: 0 43px;}
+/* contactus */
+.tt{display: none;}
+.hj{margin: 20px 0;}
+}
+
+@media screen and (max-width:480px) {
+    .navbar {
+        justify-content: center;
+    }
+
+    .navbar ul {
+        display: inline-block;
+    }
+
+    .navbar ul li {
+        padding: 6px 0;
+    }
+
+    .hero-text,
+    .hero-model {
+        float: none;
+        max-width: 100%;
+    }
+
+    .hero-text h1 {
+        font-size: 37px;
+        text-align: left;
+    }
+
+    .abc {
+        margin: 0;
+        font-size: 3.8rem !important;
+    }
+
+    .aba h2,
+    .aba p {
+        text-align: left;
+    }
+
+    .accordion-body {
+        font-size: 17px;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 6px 47px;
+        margin: 6px 6px;
+    }
+
+    .row4 .tab-content {
+        margin: 0px 10px;
+    }
+
+    .bg .card {
+        margin: 10px 10px !important;
+    }
+
+    .abc {
+        margin: 10px 0;
+        font-size: 2.8rem !important;
+    }
+
+    .assc p {
+        font-size: 1.5rem !important;
+    }
+
+    .navbar ul li a {
+        padding: 10px 15px;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 6px 44px;
+    }
+
+    /* aboutus res */
+    .contact-a a {
+        width: 40%;
+    }
+
+    .vv p {
+        text-align: left;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .hero-text h1 {
+        font-size: 32px;
+    }
+
+    .row4 .tab-content {
+        margin: 0;
+    }
+
+    .row4 .tab-content .card {
+        width: 23rem !important;
+    }
+
+    .row3 {
+        margin: 0 auto;
+    }
+
+    .dda {
+        margin: 0;
+        justify-content: center;
+    }
+
+    .bg .card {
+        margin: 10px 0px !important;
+        padding: 0;
+    }
+
+    .assc p {
+        font-size: 1.3rem !important;
+    }
+
+    .row-c-2 input,
+    .row-c-2 input:nth-child(3),
+    .row-c-2 select,
+    .row-c-2 textarea {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .iconsvg {
+        width: 22%;
+    }
+
+    /* about res */
+    .contact-a h3 {
+        width: 100%;
+    }
+
+    .contact-a a {
+        width: 50%;
+        padding: 3px 40px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .row4 .tab-content {
+        padding: 0;
+    }
+
+    .row4 .tab-content .card {
+        width: 21rem !important;
+    }
+
+    .footer-c-1 {
+        width: 100%;
+    }
+
+    .footer-c-2 p,
+    .assc p {
+        font-size: 1rem !important;
+    }
+
+    .accordion-body {
+        font-size: 12px;
+    }
+
+    .iconsvg {
+        width: 20%;
+    }
+
+    .card-text {
+        font-size: 15px;
+    }
+    /* services */
+  .ssa h3 {
+    padding: 0 18px;
+  }
+  .ssa p{padding: 0;}
+  .qawebservices p{width: 100%;}
+  .contact-a a{padding: 3px 25px !important;}
+   .gg p{font-size: 18px !important;}
+}
+
+@media screen and (max-width:320px) {
+
+    .row4 .tab-content .card {
+        width: 18rem !important;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 6px 23px;
+    }
+
+    .card-title {
+        font-size: 18px;
+    }
+
+    .contact-a a {
+        width: 49%;
+        padding: 3px 14px !important;
+    }
+
+  .iconsvg{width: 24%;}
+ 
+}
